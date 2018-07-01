@@ -1,0 +1,30 @@
+@model Review 
+<h1>Welcome to RESTraunter!</h1>
+<h3>Write a review for a restaurant</h3>
+<div asp-validation-summary="All"></div>
+<form asp-action="Create" asp-controller="Review" method="post">
+    <label style="display: block;" asp-for="reviewerName">Reviewer Name</label>
+    <input style="display: block;" asp-for="reviewerName">
+
+    <label style="display: block;" asp-for="restaurantName">Restaurant Name</label>
+    <input style="display: block;" asp-for="restaurantName">
+
+    <label style="display: block;" asp-for="review">Review</label>
+    <textarea style="display: block;" asp-for="review" cols="30" rows="10"></textarea>
+
+    <label style="display: block;" asp-for="date">Date Visited</label>
+    <input style="display: block;" asp-for="date">
+    
+    <label style="display: block;" asp-for="stars">Stars</label>
+    <select style="display: block;" asp-for="stars">
+        @for(int i = 1; i < 6; i++)
+        {
+            <option>@i</option>
+        }
+    </select>
+    <br>
+    <input style="display: block;" type="submit" value="Add Review">
+</form>
+
+<h3>Look at the reviews!</h3>
+<a href="/reviews">Reviews!</a>

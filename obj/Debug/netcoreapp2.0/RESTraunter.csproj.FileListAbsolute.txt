@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\bin\Debug\netcoreapp2.0\RESTraunter.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\bin\Debug\netcoreapp2.0\RESTraunter.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\bin\Debug\netcoreapp2.0\RESTraunter.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\bin\Debug\netcoreapp2.0\RESTraunter.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\bin\Debug\netcoreapp2.0\RESTraunter.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\obj\Debug\netcoreapp2.0\RESTraunter.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\obj\Debug\netcoreapp2.0\RESTraunter.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\obj\Debug\netcoreapp2.0\RESTraunter.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\obj\Debug\netcoreapp2.0\RESTraunter.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\obj\Debug\netcoreapp2.0\RESTraunter.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RESTraunter\obj\Debug\netcoreapp2.0\RESTraunter.pdb
